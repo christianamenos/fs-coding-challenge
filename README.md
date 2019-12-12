@@ -53,9 +53,14 @@ Create a view or use a template to present the list of postures, consuming the a
 
 ## Submitting your solution
 
-Hand in your solution along with any notes, comments, and assumptions you have made while working on the solution via email to the Yoga Solo employee who sent you this test.
+- Create a fork of this project
+- Do your code
+- Commit frequently, we would love to see how you work and how you create your solution
+  - Don't be afraid of not perfect code on pushed commits, we would check the final code that appears in the Pull Request
+- Remember to use descriptive commit messages
+- Use the README.md file to explain what you did
+  - Hand in your solution along with any notes, comments, and assumptions you have made while working on the solution
 
-Delivery will be done uploading the code in a public git repository system like GitHub or Bitbucket. Or, if you prefer, bundle all files into a zip (with the local git repository inside). Remember to use descriptive commit messages.
 
 This technical test is **NOT** time boxed, but time is taken into consideration just as any other factor when reviewing your solution.
 
@@ -139,6 +144,11 @@ Here you have some postures in JSON format that you can use to fill your DB.
     }
   ]
 ```
+
+## Thanks
+
+The structure of this README has been inspired by:
+https://github.com/luvotels/fs-hiring-test
 
 
 
