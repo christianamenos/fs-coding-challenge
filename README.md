@@ -28,7 +28,7 @@ Create a project, install dependencies and run a web server using your favourite
     - BD (i.e: GoogleCloud, Mongo Atlas, IBM Cloud, Firebase)
     - API (i.e: Heroku or antoher alternative)
     
-Due that this is not a real case, we don't need a complex Registration / Log In system, for the scope of this challenge we are happy with a register / login system that stores the data directly to the database and just compares the username and password to check if the user is registered and can go to their private area. 
+Due that this is not a real case, we don't need a complex registration / login system, for the scope of this challenge we are happy with a register / login system that stores the data directly to the database and just compares the username and password to check if the user is registered and can go to their private area. 
 
 ### Frontend
 
