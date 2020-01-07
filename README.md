@@ -35,9 +35,9 @@ Create a view or use a template to present the list of postures, consuming the a
 
 ### Bonus Points
 
-- **[YS-2]** As a user, If I want to add a new posture in the system, this posture would be available for all the users (Plus)
-- **[YS-3]** As a user, I should be able to Register/Log In to the system (Plus)
-- **[YS-4]** As a user, when I Log In, I would enter to my private space (where I would see my name and all the postures that are in the system) (Plus)
+- **[YS-2]** As a user, If I want to add a new posture in the system, this posture would be available for all the users
+- **[YS-3]** As a user, I should be able to Register/Log In to the system
+- **[YS-4]** As a user, when I Log In, I would enter to my private space (where I would see my name and all the postures that are in the system)
 - **[YS-5]** As a user, I can see the design in different devices and it has to be responsive
 
 ## General Advice and Tips:
