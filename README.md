@@ -6,39 +6,39 @@ We have a really big issue in our office and we need you to solve it. We are try
 
 ## What we need? 
 
-Each team member would need to have his own private space, where it can see his name and all the postures that are in the system.
-If a team member wants to add a new posture in the system, this posture would be available for all the users registered. (Plus)
+Here you have the user stories we would need:
+
+- **[YS-1]** As a user, I should be able to see all the postures that are in the system
 
 ## What you should do?
 
-Create a project, install dependencies and run a web server using your favourite tech stack.
+Create a project, install dependencies needed and run a web server using your favourite tech stack.
 
 ### Backend
 
-- Design a SQL or NoSQL database.
+- Design a SQL or NoSQL database
 - The system should have the following features:
-    - User registration
-        - A user would need to enter a name, email and password
-    - Login with email and password
-    - Add Yoga postures
+    - Be able to add Yoga postures
         - A posture has a name, image and a description
-    - Given a list of postures generate a list of entries in the database 
-- API RESTful. Generate routes and use cases to get the list of available postures, login and register.
-- Deploy in the Cloud:
-    - BD (i.e: GoogleCloud, Mongo Atlas, IBM Cloud, Firebase)
-    - API (i.e: Heroku or antoher alternative)
-    
+    - Given a list of postures generate a list of entries in the database
+    - Login / Registration (Plus)
+        - User registration:
+            - A user would need to enter a name, email and password
+        - Login with email and password
+- API RESTful. Generate routes and use cases to get the list of available postures (login and register routes too, if the bonus points are done)
+
 Due that this is not a real case, we don't need a complex registration / login system, for the scope of this challenge we are happy with a register / login system that stores the data directly to the database and just compares the username and password to check if the user is registered and can go to their private area. 
 
 ### Frontend
 
-Create a view or use a template to present the list of postures, consuming the above API. Also, I should be able to see a text field showing the name of the user who logged in.
+Create a view or use a template to present the list of postures, consuming the above API. Also, the user should be able to see a text field showing his name when he is logged in.
 
 ### Bonus Points
 
-- Add new postures
-- Add the ability to add new postures in the database through the frontend (if you don’t have time, you can add the postures directly in the DB)
-- Responsive design
+- **[YS-2]** As a user, If I want to add a new posture in the system, this posture would be available for all the users
+- **[YS-3]** As a user, I should be able to Register/Log In to the system
+- **[YS-4]** As a user, when I Log In, I would enter to my private space (where I would see my name and all the postures that are in the system)
+- **[YS-5]** As a user, I can see the design in different devices and it has to be responsive
 
 ## General Advice and Tips:
 
@@ -68,7 +68,7 @@ This technical test is **NOT** time boxed, but time is taken into consideration 
 
 ## Data
 
-Here you have some postures in JSON format that you can use to fill your DB.
+Here you have some postures in JSON format that you can use to fill your DB:
 
 ```json
 [
