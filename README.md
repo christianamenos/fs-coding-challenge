@@ -3,7 +3,7 @@
 ## Original challenge
 
 * [Repository](https://github.com/YogaSolo/fs-coding-challenge)
-* [README copy](./INSTRUCTIONS.md)
+* [README copy](INSTRUCTIONS.md)
 
 ## Description
 
@@ -26,4 +26,4 @@ In order to run the solution, it will require to have a macOS machine with the f
 For specific details about the implementation or how to run it, please contact me using any of the following channels:
 
 * [Christian Amenós's website](https://christianamenos.com)
-* [Christian Amenós's email](christian.amenos@gmail.com)
+* [Christian Amenós's email](mailto:christian.amenos@gmail.com)
